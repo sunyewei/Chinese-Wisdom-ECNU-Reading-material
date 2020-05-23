@@ -24,7 +24,7 @@ Reading material for course Chinese Wisdom @ Ecole Normale Superieure Est de la 
 | 第6周  | 吕志峰    |                                              |
 | 第7周  | 刘志基    | 楚简文献同字异书刍议                         |
 | 第8周  | 张晶      |                                              |
-| 第9周  | 石春轩子  |                                              |
+| 第9周  | 石春轩子  | 中国智慧的声乐表达                           |
 | 第10周 | 王均霞    |                                              |
 | 第11周 | 李柯      |                                              |
 | 第12周 | 田兆元    |                                              |
