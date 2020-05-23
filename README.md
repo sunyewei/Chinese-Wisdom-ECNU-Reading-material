@@ -2,7 +2,7 @@
 
 ## 描述
 
-Reading material for course Chinese Wisdom @ Ecole Normale Superieure Est de la Chine
+Reading material for course Chinese Wisdom @ Ecole Normale Supérieure Est de la Chine
 
 ## 使用说明
 
